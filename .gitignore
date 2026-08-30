@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.DS_Store
+~$*.xlsx
+
+# Resultados generados por los scripts (Excel/npz) — solo se publica el
+# código. Los datos están disponibles a requerimiento (ver README.md).
+*.xlsx
+*.npz
+
+# Historial de desarrollo (versiones anteriores, experimentos, duplicados).
+# Se conserva localmente como respaldo, pero no se publica en el repositorio.
+archive/
